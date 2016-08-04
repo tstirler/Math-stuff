@@ -7,6 +7,7 @@ namespace MyMath
 {
     class FindPrimes
     {
+        //https://msdn.microsoft.com/en-us/library/mt679040.aspx
         public static List<long> myPrimes = new List<long>();
         public static long primeCounter = 0;
         private long _n;
